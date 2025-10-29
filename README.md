@@ -28,8 +28,8 @@ It also includes a **Super Admin** role with full control over all admins, plans
 | Plan        | Price      | Features                              |
 |-------------|------------|----------------------------------------|
 | **Free**    | ₹0         | Up to 30 domains, basic notifications |
-| **Pro**     | ₹3,000     | Unlimited domains, advanced reminders |
-| **Business**| ₹10,000    | Team access, analytics, white-label   |
+| **Pro**     | ₹3,000     | 1000 domains, advanced reminders |
+| **Business**| ₹10,000    | Unlimited, analytics, white-label   |
 
 ---
 
@@ -40,34 +40,7 @@ It also includes a **Super Admin** role with full control over all admins, plans
 | **MySQL**         | Database for clients, domains, plans |
 | **PHPMailer API** | Email notifications               |
 | **Bootstrap 5**   | Responsive UI                     |
-| **AJAX / jQuery** | Dynamic dashboard interactions    |
-
----
-
-## 🗂️ Project Structure (example)  
-domain-hosting-renewal-hub/
-│
-├── includes/
-│ ├── config.php
-│ ├── db_connect.php
-│ └── mailer.php
-│
-├── modules/
-│ ├── superadmin/
-│ ├── admins/
-│ ├── clients/
-│ ├── domains/
-│ ├── hosting/
-│ └── plans/
-│
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-│
-├── index.php
-├── dashboard.php
-└── README.md
+| **AJAX / jQuery** | Dynamic dashboard interactions    | 
 
 
 
