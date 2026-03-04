@@ -135,7 +135,7 @@ Login as Super Admin to set up admins, clients, domains, and plans.
 
 
 ## Live 
-www.hosting-domain.ultragits.com
+https://hosting-domain.ultragits.com/
 
 
 ## 📝 License
